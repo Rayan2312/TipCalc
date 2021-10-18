@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [ ] Custom colors palette selected
-* [ ] Round up and round down functionality with buttons
+* [x] Round up and round down functionality with buttons
 
 ## Video Walkthrough
 
