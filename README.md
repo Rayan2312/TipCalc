@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<iframe src="https://giphy.com/embed/sbhObu0u10eEwfjsTJ" width="288" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sbhObu0u10eEwfjsTJ">via GIPHY</a></p>
+<iframe src="https://i.imgur.com/MRAPAq2.gif" width="288" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sbhObu0u10eEwfjsTJ">via GIPHY</a></p>
 
 GIF created with [GIPHY](http://www.giphy.com).
 
