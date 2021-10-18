@@ -31,7 +31,7 @@ GIF created with [GIPHY](http://www.giphy.com).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The hardest part was getting used to the kotlin/Java syntax and the available functions/attributes for each layout element.
 
 ## License
 
